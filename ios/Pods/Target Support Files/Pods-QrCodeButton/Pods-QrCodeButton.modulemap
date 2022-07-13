@@ -1,0 +1,6 @@
+module Pods_QrCodeButton {
+  umbrella header "Pods-QrCodeButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
